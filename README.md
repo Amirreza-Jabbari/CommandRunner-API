@@ -130,5 +130,5 @@ python manage.py test
 
 ## **Optional Features**
 
-- **unit tests:** implemented unit tests for the client and server in `tests.py`.
-- **Logging:** Add command logging in `zmq_server.py`.
+- **unit tests:** Implemented unit tests for the client and server in `tests.py`.
+- **Logging:** Added command logging in `zmq_server.py`.
